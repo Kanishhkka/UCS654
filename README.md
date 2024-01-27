@@ -1,3 +1,6 @@
+SAMPLING- UCS654
+Kanishka-3CO27-102103772
+
 1. LR (Logistic Regression), the highest accuracy is achieved with Cluster Sampling.
 2. CART (Decision Tree), the highest accuracy is achieved with Cluster Sampling.
 3. KNN (K-Nearest Neighbors), the highest accuracy is achieved with Cluster Sampling.
