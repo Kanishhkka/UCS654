@@ -1,5 +1,5 @@
 SAMPLING- UCS654
-Kanishka-3CO27-102103772
+<b>Kanishka-3CO27-102103772</b>
 
 <h1>MODELS USED</h1>:
 <ol><li>Logistic Regresstion</li>
@@ -19,11 +19,16 @@ Kanishka-3CO27-102103772
 
 <h1>RESULTS</h1>
 
-For LR (Logistic Regression), the highest accuracy is achieved with Cluster Sampling.
-For KNN (K-Nearest Neighbors), the highest accuracy is achieved with Cluster Sampling.
-For GradientBoosting, the highest accuracy is achieved with Cluster Sampling.
-For GNB (Gaussian Naive Bayes), the highest accuracy is achieved with Stratified Sampling.
-For SVC (Support Vector Classifier), the highest accuracy is achieved with Cluster Sampling.
+<ol>
+  <li>For LR (Logistic Regression), the highest accuracy is achieved with Cluster Sampling.</li>
+  <li>For KNN (K-Nearest Neighbors), the highest accuracy is achieved with Cluster Sampling.</li>
+  <li>For GradientBoosting, the highest accuracy is achieved with Cluster Sampling.</li>
+  <li>For GNB (Gaussian Naive Bayes), the highest accuracy is achieved with Stratified Sampling.</li>
+  <li>
+For SVC (Support Vector Classifier), the highest accuracy is achieved with Cluster Sampling.</li>
+  
+</ol>
+
 
 <h1>FINAL DISCUSSION</h1>
-Therefore, in general, Cluster Sampling seems to be the most effective sampling technique 
+Therefore, in general, <b>Cluster Sampling</b> seems to be the most effective sampling technique 
