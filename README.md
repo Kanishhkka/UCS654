@@ -1,5 +1,5 @@
-SAMPLING- UCS654
-<b>Kanishka-3CO27-102103772</b>
+SAMPLING- UCS654<br>
+<h2>Kanishka-3CO27-102103772</h2>h2>
 
 <h1>MODELS USED</h1>:
 <ol><li>Logistic Regresstion</li>
