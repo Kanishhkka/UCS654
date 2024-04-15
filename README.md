@@ -1,7 +1,7 @@
 SAMPLING- UCS654<br>
 <h2>Kanishka-3CO27-102103772</h2>
 
-<h1>MODELS USED</h1>:
+<h1>MODELS USED</h1>
 <ol><li>Logistic Regresstion</li>
 <li>K-Nearest Neighbors</li>
 <li> GradientBoosting</li>
